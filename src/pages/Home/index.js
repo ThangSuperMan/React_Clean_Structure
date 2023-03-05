@@ -1,5 +1,5 @@
 import React from "react";
-import getLikes from "#api";
+import { getLikes } from "#api";
 import { Button } from "../../components";
 
 const Home = () => {
